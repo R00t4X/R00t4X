@@ -21,9 +21,6 @@
 - 💻 **Flask Control Server** – [R00t4Xflask](https://github.com/R00t4X/R00t4Xflask): Веб-интерфейс на Flask для управления ботами.
 - 🔧 **TG UserBot** – [R00t4Xub](https://github.com/R00t4X/R00t4Xub): Автоматизированный пользовательский бот.
 
-## 📊 Статистика GitHub
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=R00t4X&show_icons=true&theme=dark)
-
 ## 📞 Контакты
 - Telegram: [@R00t4X](https://t.me/R00t4X)
 
